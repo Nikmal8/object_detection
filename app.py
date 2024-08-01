@@ -65,7 +65,7 @@ app_mode = st.sidebar.selectbox('Choose the App mode',
 
 if app_mode == 'Run on Video':
 
-    st.set_option('deprecation.showfileUploaderEncoding', False)
+  #  st.set_option('deprecation.showfileUploaderEncoding', False)
 
     use_webcam = st.sidebar.button('Use Webcam')
     record = st.sidebar.checkbox("Record Video")
