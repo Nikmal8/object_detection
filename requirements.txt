@@ -1,7 +1,4 @@
-streamlit
-opencv-python
-cvzone
-ultralytics
-math
-time
-tempfile
+streamlit==1.37.0
+opencv-python==4.10.0.84
+cvzone==1.6.1
+ultralytics==8.2.70
